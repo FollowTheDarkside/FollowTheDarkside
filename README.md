@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**FollowTheDarkside/FollowTheDarkside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Overview
+FollowTheDarkside (FTD) a.k.a Naoyuki Hirasawa
+<br>
+I am Bboy / Dancer / Programmer / Videographer / Blogger.
+<br>
+My portfolio is [here](https://hahaeatora.hateblo.jp/entry/2017/12/28/042438).
+## Link
+- [YouTube](https://www.youtube.com/c/FTD22)
+- [Blog](https://hahaeatora.hateblo.jp)
+- [Qiita](https://qiita.com/FollowTheDarkside)
