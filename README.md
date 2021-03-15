@@ -12,6 +12,8 @@ Contact: hahaeatora@gmail.com
 <a href="https://youtu.be/WRGNWCJfY1U"><img src="https://user-images.githubusercontent.com/9309605/111227953-bf391300-8626-11eb-9580-cf871576ae44.png" width="320px" height="320px" alt="breakgan"></a>
 <br>
 <a href="https://youtu.be/stGOXrW_BLM"><img src="https://user-images.githubusercontent.com/9309605/111226667-cf4ff300-8624-11eb-8aeb-5c526c9c0848.png" width="320px" height="320px" alt="tokaido"></a>
+<br>
+<a href="https://youtu.be/fN873xzIX9s"><img src="https://user-images.githubusercontent.com/9309605/111228898-5488d700-8628-11eb-9010-5a2804a458ed.png" width="320px" height="320px" alt="Dance AI for Beginners"></a>
 ## Link
 - [YouTube](https://www.youtube.com/c/FTD22)
 - [Instagram](https://www.instagram.com/followthedarkside/)
