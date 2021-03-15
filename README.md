@@ -7,9 +7,9 @@ My detailed portfolio is [here](https://hahaeatora.hateblo.jp/entry/2017/12/28/0
 <br><br>
 Contact: hahaeatora@gmail.com
 ## Works
-<a href="https://youtu.be/tQmTFtPibCE"><img src="https://user-images.githubusercontent.com/9309605/111227324-bc89ee00-8625-11eb-92b5-17bd5cca9275.jpg" width="640px" height="640px" alt="breakgan feat. bboy steez"></a>
-<a href="https://youtu.be/WRGNWCJfY1U"><img src="https://user-images.githubusercontent.com/9309605/111227953-bf391300-8626-11eb-9580-cf871576ae44.png" width="640px" height="640px" alt="breakgan"></a>
-<a href="https://youtu.be/stGOXrW_BLM"><img src="https://user-images.githubusercontent.com/9309605/111226667-cf4ff300-8624-11eb-8aeb-5c526c9c0848.png" width="640px" height="640px" alt="tokaido"></a>
+<a href="https://youtu.be/tQmTFtPibCE"><img src="https://user-images.githubusercontent.com/9309605/111227324-bc89ee00-8625-11eb-92b5-17bd5cca9275.jpg" width="320px" height="320px" alt="breakgan feat. bboy steez"></a>
+<a href="https://youtu.be/WRGNWCJfY1U"><img src="https://user-images.githubusercontent.com/9309605/111227953-bf391300-8626-11eb-9580-cf871576ae44.png" width="320px" height="320px" alt="breakgan"></a>
+<a href="https://youtu.be/stGOXrW_BLM"><img src="https://user-images.githubusercontent.com/9309605/111226667-cf4ff300-8624-11eb-8aeb-5c526c9c0848.png" width="320px" height="320px" alt="tokaido"></a>
 ## Link
 - [YouTube](https://www.youtube.com/c/FTD22)
 - [Instagram](https://www.instagram.com/followthedarkside/)
