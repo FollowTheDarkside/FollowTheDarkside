@@ -2,6 +2,8 @@
 FollowTheDarkside (FTD) a.k.a Naoyuki Hirasawa
 <br>
 I am Bboy / Dancer / Programmer / Videographer / Blogger.
+<br><br>
+Biography is [here](https://github.com/FollowTheDarkside/FollowTheDarkside/blob/main/BIOGRAPHY.md).
 <br>
 My detailed portfolio is [here](https://hahaeatora.hateblo.jp/entry/2017/12/28/042438).
 <br><br>
