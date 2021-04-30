@@ -8,6 +8,9 @@ Biography is [here](https://github.com/FollowTheDarkside/FollowTheDarkside/blob/
 My detailed portfolio is [here](https://hahaeatora.hateblo.jp/entry/2017/12/28/042438).
 <br><br>
 Contact: hahaeatora@gmail.com
+<br><br>
+
+
 ## Works
 <a href="https://youtu.be/tQmTFtPibCE"><img src="https://user-images.githubusercontent.com/9309605/111227324-bc89ee00-8625-11eb-92b5-17bd5cca9275.jpg" width="320px" height="320px" alt="breakgan feat. bboy steez"></a>
 <br>
@@ -16,6 +19,17 @@ Contact: hahaeatora@gmail.com
 <a href="https://youtu.be/stGOXrW_BLM"><img src="https://user-images.githubusercontent.com/9309605/111226667-cf4ff300-8624-11eb-8aeb-5c526c9c0848.png" width="320px" height="320px" alt="tokaido"></a>
 <br>
 <a href="https://youtu.be/fN873xzIX9s"><img src="https://user-images.githubusercontent.com/9309605/111228898-5488d700-8628-11eb-9010-5a2804a458ed.png" width="320px" height="320px" alt="Dance AI for Beginners"></a>
+<br><br>
+
+## Writings
+2020/2 - [ブレイクダンスにおける深層学習を用いたダンサーの情動状態の可視化と文化支援](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3D5OS22b03/_article/-char/ja/)
+<br>
+2019/2 - [深層学習を利用したブレイクダンスにおける新しい価値の創出・評価システムの開発](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_2C1J1203/_article/-char/ja)
+<br>
+2018/7 - [深層学習を利用したブレイクダンスにおける動作の判別・可視化システムの開発とその応用](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190839&item_no=1)
+<br><br>
+
+
 ## Link
 - [YouTube](https://www.youtube.com/c/FTD22)
 - [Instagram](https://www.instagram.com/followthedarkside/)
