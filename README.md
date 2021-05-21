@@ -22,13 +22,20 @@ Contact: hahaeatora@gmail.com
 <br><br>
 
 ## Writings
-2020/2 - [ブレイクダンスにおける深層学習を用いたダンサーの情動状態の可視化と文化支援](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3D5OS22b03/_article/-char/ja/)
+2020/02　[ブレイクダンスにおける深層学習を用いたダンサーの情動状態の可視化と文化支援](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3D5OS22b03/_article/-char/ja/)
 <br>
-2019/2 - [深層学習を利用したブレイクダンスにおける新しい価値の創出・評価システムの開発](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_2C1J1203/_article/-char/ja)
+2019/02　[深層学習を利用したブレイクダンスにおける新しい価値の創出・評価システムの開発](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_2C1J1203/_article/-char/ja)
 <br>
-2018/7 - [深層学習を利用したブレイクダンスにおける動作の判別・可視化システムの開発とその応用](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190839&item_no=1)
+2018/07　[深層学習を利用したブレイクダンスにおける動作の判別・可視化システムの開発とその応用](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=190839&item_no=1)
 <br><br>
 
+## Media
+2020/05　[TensorFlow.js Community Show & Tell #2](https://youtu.be/8poKOxl6j8U?t=1640)
+<br>
+2019/08　[APS - 走り始めた“AIシューズ”。STM32マイコンが楽しさを加速。](https://www.aps-web.jp/magazine/8118/)
+<br>
+2019/04　[STM32 Summit: product demonstrations, partner showcase and application focus presentations](https://blog.st.com/day-1-stm32-summit-product-demonstrations-partner-showcase-and-application-focus-presentations/)
+<br><br>
 
 ## Link
 - [YouTube](https://www.youtube.com/c/FTD22)
