@@ -1,5 +1,5 @@
 # Biography
-<img src="https://user-images.githubusercontent.com/9309605/116735565-abf0d400-aa29-11eb-99c9-5df04fe8c03d.jpg" width="512px" height="512px" alt="FollowTheDarkside">
+<img src="https://user-images.githubusercontent.com/9309605/116735565-abf0d400-aa29-11eb-99c9-5df04fe8c03d.jpg" width="320px" height="320px" alt="FollowTheDarkside">
 <br><br>
 
 FollowTheDarkside (FTD) a.k.a Naoyuki Hirasawa
