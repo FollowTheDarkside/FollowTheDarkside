@@ -35,6 +35,10 @@ Contact: hahaeatora@gmail.com
 2019/08　[APS - 走り始めた“AIシューズ”。STM32マイコンが楽しさを加速。](https://www.aps-web.jp/magazine/8118/)
 <br>
 2019/04　[STM32 Summit: product demonstrations, partner showcase and application focus presentations](https://blog.st.com/day-1-stm32-summit-product-demonstrations-partner-showcase-and-application-focus-presentations/)
+<br>
+2018/12　[SIGDance - Cypher Session vol. 1](https://www.sigdance.site/cypher-session-vol-1)
+<br>
+2018/07　[TOMORUBA - 【イベントレポート】　デジタルヘルスケア先進国・イスラエルのキーパーソンたちが集結！OKIとの共創によって生み出される世界観とは？](https://tomoruba.eiicon.net/articles/531)
 <br><br>
 
 ## Link
