@@ -22,6 +22,8 @@ Contact: hahaeatora@gmail.com
 <br><br>
 
 ## Writings
+2020-21　[note - BBOYエンジニア TECHブログ（デザイニウム）](https://note.com/thedesignium/m/ma25e9a7c5880)
+<br>
 2020/02　[ブレイクダンスにおける深層学習を用いたダンサーの情動状態の可視化と文化支援](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3D5OS22b03/_article/-char/ja/)
 <br>
 2019/02　[深層学習を利用したブレイクダンスにおける新しい価値の創出・評価システムの開発](https://www.jstage.jst.go.jp/article/pjsai/JSAI2019/0/JSAI2019_2C1J1203/_article/-char/ja)
