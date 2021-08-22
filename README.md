@@ -5,7 +5,7 @@ I am Bboy / Dancer / Programmer / Videographer / Blogger.
 <br><br>
 Biography is [here](https://github.com/FollowTheDarkside/FollowTheDarkside/blob/main/BIOGRAPHY.md).
 <br>
-My detailed portfolio is [here](https://hahaeatora.hateblo.jp/entry/2017/12/28/042438).
+My detailed portfolio is [here](https://elite-amphibian-dde.notion.site/FTD-3bf5570278204a18b7d52bf519f3d1cb).
 <br><br>
 Contact: hahaeatora@gmail.com
 <br><br>
