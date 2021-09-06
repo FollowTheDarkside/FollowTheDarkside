@@ -12,6 +12,8 @@ Contact: hahaeatora@gmail.com
 
 
 ## Works
+<a href="https://youtu.be/RVjdmTPlrQI"><img src="https://user-images.githubusercontent.com/9309605/132204883-3ef507a4-40cb-4ede-b33f-78245b15b50a.png" width="320px" height="320px" alt="the freshest ai"></a>
+<br>
 <a href="https://youtu.be/tQmTFtPibCE"><img src="https://user-images.githubusercontent.com/9309605/111227324-bc89ee00-8625-11eb-92b5-17bd5cca9275.jpg" width="320px" height="320px" alt="breakgan feat. bboy steez"></a>
 <br>
 <a href="https://youtu.be/WRGNWCJfY1U"><img src="https://user-images.githubusercontent.com/9309605/111227953-bf391300-8626-11eb-9580-cf871576ae44.png" width="320px" height="320px" alt="breakgan"></a>
