@@ -1,5 +1,5 @@
 ## Overview
-FollowTheDarkside (FTD) a.k.a Naoyuki Hirasawa
+FollowTheDarkside (FTD)
 <br>
 I am Bboy / Dancer / Programmer / Videographer / Blogger.
 <br><br>
