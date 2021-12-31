@@ -51,4 +51,5 @@ Contact: hahaeatora@gmail.com
 - [Twitter](https://twitter.com/eatora22)
 - [Blog](https://hahaeatora.hateblo.jp)
 - [note](https://note.com/hahaeatora)
+- [Vimeo](https://vimeo.com/user118759981)
 - [Qiita](https://qiita.com/FollowTheDarkside)
