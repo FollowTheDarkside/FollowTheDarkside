@@ -1,7 +1,7 @@
 ## Overview
 FollowTheDarkside (FTD)
 <br>
-I am Bboy / Dancer / Programmer / Videographer / Blogger.
+I am Creative Coder / Visual Artist / Blogger / BBOY.
 <br><br>
 Biography is [here](https://github.com/FollowTheDarkside/FollowTheDarkside/blob/main/BIOGRAPHY.md).
 <br>
