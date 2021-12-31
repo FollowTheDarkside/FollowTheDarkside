@@ -49,7 +49,7 @@ Contact: hahaeatora@gmail.com
 - [YouTube](https://www.youtube.com/c/FTD22)
 - [Instagram](https://www.instagram.com/followthedarkside/)
 - [Twitter](https://twitter.com/eatora22)
+- [Vimeo](https://vimeo.com/user118759981)
 - [Blog](https://hahaeatora.hateblo.jp)
 - [note](https://note.com/hahaeatora)
-- [Vimeo](https://vimeo.com/user118759981)
 - [Qiita](https://qiita.com/FollowTheDarkside)
