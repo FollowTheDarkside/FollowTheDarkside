@@ -1,7 +1,7 @@
 ## Overview
 FollowTheDarkside (FTD)
 <br>
-I am Creative Coder / Visual Artist / Blogger / BBOY.
+I am Creative Coder / Visual Artist / Writer / BBOY.
 <br><br>
 Biography is [here](https://github.com/FollowTheDarkside/FollowTheDarkside/blob/main/BIOGRAPHY.md).
 <br>
@@ -12,6 +12,8 @@ Contact: hahaeatora@gmail.com
 
 
 ## Works
+<a href="https://sanpoo.jp/article/ikuta-gan-sanpo/"><img src="https://user-images.githubusercontent.com/9309605/159835360-514c39bd-9bf0-4a8b-8e00-76246920f501.jpg" width="320px" height="320px" alt="generative ikuta"></a>
+<br>
 <a href="https://youtu.be/RVjdmTPlrQI"><img src="https://user-images.githubusercontent.com/9309605/132204883-3ef507a4-40cb-4ede-b33f-78245b15b50a.png" width="320px" height="320px" alt="the freshest ai"></a>
 <br>
 <a href="https://youtu.be/tQmTFtPibCE"><img src="https://user-images.githubusercontent.com/9309605/111227324-bc89ee00-8625-11eb-92b5-17bd5cca9275.jpg" width="320px" height="320px" alt="breakgan feat. bboy steez"></a>
