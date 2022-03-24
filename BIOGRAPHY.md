@@ -5,7 +5,7 @@
 FollowTheDarkside (FTD) a.k.a Naoyuki Hirasawa
 <br>
 
-Bboy / Dancer / Programmer / Videographer / Blogger
+Creative Coder / Visual Artist / Writer / BBOY
 <br><br>
 
 FTD is a Kanto-based artist and BBOY. He makes various works while making use of his career as a break dancer and engineer. At the same time, he is also conducting research activities on the theme of dance and AI. In recent years, he has been exploring for new visual expressions using programming and machine learning techniques.
