@@ -7,7 +7,7 @@ FollowTheDarkside (FTD)
 I am Creative Coder / Visual Artist / Writer / BBOY.
 <br><br>
 
-My portfolio is [here](https://followthedarkside.github.io/).
+My portfolio is [here](https://followthedarkside.com/).
 <br><br>
 
 Contact: hahaeatora@gmail.com
